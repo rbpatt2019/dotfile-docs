@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0, os.path.abspath("../"))
 
 project = "rbpatt2019's dotfiles'"
-author = "Ryan B Patterson-Cross <rb.patterson.cross@gmail.com>"
+author = "rbpatt2019 <rb.patterson.cross@gmail.com>"
 project_copyright = "Ryan B Patterson-Cross 2024"
 version = "1"  # Refers to the build of the docs only
 extensions = [
