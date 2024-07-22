@@ -22,6 +22,7 @@ html_theme_options = {
     "repository_url": "https://github.com/rbpatt2019/dotfile-docs",
     "repository_branch": "main",
     "path_to_docs": "docs",
+    "use_sidenotes": True,
     "use_repository_button": True,
     "use_source_button": True,
     "use_edit_page_button": True,
